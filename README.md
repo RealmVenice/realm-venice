@@ -1,66 +1,53 @@
-# REALM VENICE
+<div align="center">
 
-<p align="center">
-  <img src="https://realmvenice.xyz/logo.png" alt="Realm Venice" width="280" />
-</p>
+![Realm Venice](https://realmvenice.xyz/logo.png) <!-- ganti dengan link gambar pixel server kamu -->
 
-**Immersive Intelligence Layer for the Venice Economy.**
+<h1>Realm Venice</h1>
 
-Verifiable Agents • On-Chain Robotics • Built on Base.
+**Verifiable Execution Layer for the Venice Economy**
 
----
+</div>
 
-## 🧭 Quick Links
+<br>
 
-- **Website**: [realmvenice.xyz](https://realmvenice.xyz)
-- **Founder**: [@BeldiqMeshach](https://x.com/BeldiqMeshach) 
-- **X / Twitter**: [@realmvenice](https://x.com/realmvenice)
-- **Docs**: [realmvenice.xyz/docs](https://realmvenice.xyz/docs)
-- **Contract**: `0x...` (coming soon)
-- **GitVenice** (Model Hub): [Coming Soon]
+**The verifiable intelligence infrastructure for @askvenice on Base.**
+
+Agents that can prove what they did.  
+Models anchored on-chain.  
+Execution you can trust without trust.
 
 ---
 
-## 🌟 What is Realm Venice?
+### Tech Stack
 
-Realm Venice is a decentralized intelligence infrastructure that brings **verifiable execution** to AI agents and robotics on the Base blockchain.
+<div align="center">
 
-We combine retro-futuristic aesthetics with serious on-chain infrastructure.
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-14-000000?logo=next.js&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
+![Vercel](https://img.shields.io/badge/Deployed_on_Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
+![Base Chain](https://img.shields.io/badge/Base_Chain-0052FF?logo=base&logoColor=white&style=flat-square)
 
-### Core Components
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
 
-- **V402** — Verifier-as-a-Service (paid, signed, proven)
-- **GitVenice** — GitHub for Venice Agents (on-chain model anchoring)
-- **Index** — Curated directory of verifiable projects
-- **Mindshare.S1** — Reward program for writers, builders & integrators
-- **SDK** — Python + Solidity toolkit for verifiable robot/agent execution
-
----
-
-## 📁 Repository Structure
-
-realm-venice/
-├── packages/
-│   ├── sdk/              # Verifiable execution SDK
-│   ├── contracts/        # Solidity smart contracts
-│   └── frontend/         # realmvenice.xyz website
-├── models/               # Sample Venice Agents
-├── docs/                 # Documentation
-├── examples/             # Integration examples
-├── .github/
-│   └── workflows/        # CI/CD
-├── LICENSE
-└── README.md
+</div>
 
 ---
 
-## 🚀 Getting Started
+### Links
 
-```bash
-# Clone repo
-git clone https://github.com/RealmVenice/realm-venice.git
-cd realm-venice
+- **Website** → [realmvenice.xyz](https://realmvenice.xyz)
+- **Chat with Realm** → [realmvenice.xyz/chat](https://realmvenice.xyz/chat)
+- **About** → [realmvenice.xyz/about](https://realmvenice.xyz/about)
+- **X / Twitter** → [@realmvenice](https://x.com/realmvenice)
+- **Founder** → [@BeldiqMeshach](https://x.com/BeldiqMeshach)
 
-# Install SDK
-cd packages/sdk
-npm install
+---
+
+### $REALM Token
+
+**Coming soon on @bankrbot**
+
+---
+
+**Built with ❤️ for the Venice Ecosystem**
