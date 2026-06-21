@@ -44,10 +44,56 @@ Execution you can trust without trust.
 
 ---
 
+##  What is Realm Venice?
+
+Realm Venice is a decentralized intelligence infrastructure that brings **verifiable execution** to AI agents and robotics on the Base blockchain.
+
+We combine retro-futuristic aesthetics with serious on-chain infrastructure.
+
+### Core Components
+
+- **V402** — Verifier-as-a-Service (paid, signed, proven)
+- **GitVenice** — GitHub for Venice Agents (on-chain model anchoring)
+- **Index** — Curated directory of verifiable projects
+- **Mindshare.S1** — Reward program for writers, builders & integrators
+- **SDK** — Python + Solidity toolkit for verifiable robot/agent execution
+
+---
+
+##  Repository Structure
+
+realm-venice/
+├── packages/
+│   ├── sdk/              # Verifiable execution SDK
+│   ├── contracts/        # Solidity smart contracts
+│   └── frontend/         # realmvenice.xyz website
+├── models/               # Sample Venice Agents
+├── docs/                 # Documentation
+├── examples/             # Integration examples
+├── .github/
+│   └── workflows/        # CI/CD
+├── LICENSE
+└── README.md
+
+---
+
 ### $REALM Token
 
 **Coming soon on @bankrbot**
 
 ---
 
-**Built with ❤️ for the Venice Ecosystem**
+##  Getting Started
+
+```bash
+# Clone repo
+git clone https://github.com/RealmVenice/realm-venice.git
+cd realm-venice
+
+# Install SDK
+cd packages/sdk
+npm install
+
+---
+
+**Built with Realm for the Venice Ecosystem**
