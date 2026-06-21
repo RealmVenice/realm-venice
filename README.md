@@ -77,12 +77,6 @@ realm-venice/
 
 ---
 
-### $REALM Token
-
-**Coming soon on @bankrbot**
-
----
-
 ##  Getting Started
 
 ```bash
