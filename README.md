@@ -18,6 +18,14 @@ Execution you can trust without trust.
 
 ---
 
+### $REALM Token
+
+**Live on @bankrbot**
+**CA: 0x5c3f5d9522720e97af7aa9ec7def97d5ffe86ba3**
+**Live: https://bankr.bot/launches/0x5C3f5D9522720e97AF7aa9EC7DeF97d5fFE86bA3**
+
+---
+
 ### Tech Stack
 
 <div align="center">
