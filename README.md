@@ -13,6 +13,7 @@ Verifiable Agents • On-Chain Robotics • Built on Base.
 ## 🧭 Quick Links
 
 - **Website**: [realmvenice.xyz](https://realmvenice.xyz)
+- **Founder**: [@BeldiqMeshach](https://x.com/BeldiqMeshach) 
 - **X / Twitter**: [@realmvenice](https://x.com/realmvenice)
 - **Docs**: [realmvenice.xyz/docs](https://realmvenice.xyz/docs)
 - **Contract**: `0x...` (coming soon)
