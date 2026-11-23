@@ -20,11 +20,11 @@ Execution you can trust without trust.
 
 ### $REALM Token
 
-**Live on @bankrbot**
+**Live on Clanker**
 
-**CA: 0x5c3f5d9522720e97af7aa9ec7def97d5ffe86ba3**
+**CA: 0xfA4cd6700b66B1a5A4aC95cE486ea18779bECCcc**
 
-**Live: https://bankr.bot/launches/0x5C3f5D9522720e97AF7aa9EC7DeF97d5fFE86bA3**
+**Live: [https://clanker.world/clanker/0xfA4cd6700b66B1a5A4aC95cE486ea18779bECCcc](https://clanker.world/clanker/0xfA4cd6700b66B1a5A4aC95cE486ea18779bECCcc)**
 
 ---
 
