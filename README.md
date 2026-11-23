@@ -49,7 +49,6 @@ Execution you can trust without trust.
 - **Website** → [realmvenice.xyz](https://realmvenice.xyz)
 - **Chat with Realm** → [realmvenice.xyz/chat](https://realmvenice.xyz/chat)
 - **X / Twitter** → [@realmvenice](https://x.com/realmvenice)
-- **Founder** → [@BeldiqMeshach](https://x.com/BeldiqMeshach)
 
 ---
 
